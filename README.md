@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/_nasnia_/?igshid=cW5jMGluOXpmMnZk">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="linkedin.com/in/anastasiia-lvutina-38838b2a0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
