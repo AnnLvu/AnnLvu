@@ -40,7 +40,3 @@ anastasiia-lvutina">
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnnLvu&show_icons=true&locale=en&layout=compact" alt="AnnLvu" /></p>
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnnLvu&theme=tokyonight)](https://git.io/streak-stats)
-
